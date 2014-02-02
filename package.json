@@ -1,0 +1,10 @@
+{
+  "name": "bitcoin-alerts",
+  "description": "bitcoin alerts when it goes over $1000",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.7",
+    "twilio": "*"
+  }
+}
