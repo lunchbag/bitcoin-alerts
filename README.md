@@ -1,6 +1,6 @@
 # bitcoin-alerts
 
-Receive a text message whenever Bitcoin to USD rate hits a set price.
+A quick and derpy thing that will send you a text message whenever Bitcoin to USD rate hits a certain price.
 
 ###Instructions
 
